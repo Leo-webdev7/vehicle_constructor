@@ -10,7 +10,9 @@
 * [Contribution Guidelines](#contribution-guidelines)
 * [Test Instructions](#test-instructions)
 * [License](#license)
+* [Links](#links)
 * [Questions](#questions)
+* [Credits](#credits)
 
 ## Description
 
@@ -24,10 +26,6 @@ This command line application prompts the user to either create a new vehicle or
 
 This project allows to select or build a vehicle and performs actions with this vehicle.
 
-## Contribution Guidelines
-
-Please refer to the CONTRIBUTING.md file for guidelines.
-
 ## Test Instructions
 
 npm test
@@ -36,6 +34,11 @@ npm test
 
 This application is covered under the Apache 2.0 license.
 
+## Links
+
+Walkthrough Video - https://drive.google.com/file/d/1UvGspFW_hemPFd5b1GxYM8HjYw4vDXSc/view
+Github Repository - https://github.com/Leo-webdev7/vehicle_constructor
+
 ## Questions
 
 Have additional questions? Click the links below to reach me through my GitHub account or Email address.
@@ -43,4 +46,18 @@ Have additional questions? Click the links below to reach me through my GitHub a
 [Link to GitHub](https://github.com/Leo-webdev7)
 
 <a href="mailto:lshapirov2@gmail.com">lshapirov2@gmail.com</a>
+
+## Credits
+
+In this project, I received valuable help from:
+
+JumpCold1546 (in r/typescript on Reddit) - For assistance with activating a class method in a separate file. Their guidance on this Reddit post was incredibly helpful.
+Post link: https://www.reddit.com/r/typescript/comments/1ewh9gv/trying_to_active_a_class_method_in_a_separate/
+
+Tony Kinney - A fellow bootcamp member who provided insightful advice and support throughout the development process.
+
+Thank you both for your contributions!
+
+
+
 
