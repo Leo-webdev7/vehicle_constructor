@@ -411,16 +411,18 @@ class Cli {
         //you will need to return to avoid instantly calling the performActions 
         //method again since findVehicleToTow is asynchronous.
         else if (answers.action === 'Tow') {
+          let towPerform = false;
           for (let i = 0; i < this.vehicles.length; i++) {
             if (this.vehicles[i].vin === this.selectedVehicleVin && this.vehicles[i] instanceof Truck) {
+              towPerform = true;
               this.findVehicleToTow();
               return;
-            } else {
+            } if (!towPerform) {
               console.log('Please select a truck to perform this action.');
               this.performActions();
-              return;
-            }
-          } 
+              return; 
+              }    
+            } 
           } 
            else if (answers.action === 'Wheelie') {
           // TODO: add statements to perform the wheelie action only if 
