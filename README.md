@@ -37,6 +37,7 @@ This application is covered under the Apache 2.0 license.
 ## Links
 
 Walkthrough Video - https://drive.google.com/file/d/1UvGspFW_hemPFd5b1GxYM8HjYw4vDXSc/view
+
 Github Repository - https://github.com/Leo-webdev7/vehicle_constructor
 
 ## Questions
