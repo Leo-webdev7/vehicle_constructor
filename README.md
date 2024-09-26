@@ -9,6 +9,7 @@
 * [Usage Information](#usage-information)
 * [Contribution Guidelines](#contribution-guidelines)
 * [Test Instructions](#test-instructions)
+* [Screenshots](#screenshots)
 * [License](#license)
 * [Links](#links)
 * [Questions](#questions)
@@ -29,6 +30,10 @@ This project allows to select or build a vehicle and performs actions with this 
 ## Test Instructions
 
 npm test
+
+## Screenshots
+
+![vehicle_constructor](https://github.com/user-attachments/assets/25ea7386-6398-41f4-b0a7-5bf42b908818)
 
 ## License
 
